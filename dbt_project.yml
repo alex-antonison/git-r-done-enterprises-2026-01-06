@@ -18,9 +18,9 @@ clean-targets:
 
 models:
   git_r_done_enterprises:
-    staging:
-      +materialized: table
     marts:
+      +materialized: table
+    staging:
       +materialized: table
 
 vars:

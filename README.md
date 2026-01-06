@@ -36,3 +36,7 @@ With the `.venv` environment activated, you can then run the dbt project. This w
 Once dbt has been run at least once, you can then start up the streamlit app via:
 
     streamlit run streamlit_app.py
+
+## Looking at data
+
+Use a database client such as DBeaver to connect to the DuckDB database file located at `database/dev/git_r_done_enterprises.duckdb`.
