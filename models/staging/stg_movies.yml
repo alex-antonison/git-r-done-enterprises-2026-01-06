@@ -1,0 +1,94 @@
+version: 2
+models:
+  - name: stg_movies
+    columns:
+      - name: movie_id
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: title
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: us_gross
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: worldwide_gross
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: us_dvd_sales
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: production_budget
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: release_date
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: release_year
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: mpaa_rating
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: running_time_min
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: distributor
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: source
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: major_genres
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: creative_type
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: director
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: rotten_tomatoes_rating
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: imdb_rating
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: imdb_votes
+        description: ''
+        config:
+          meta: {}
+          tags: []

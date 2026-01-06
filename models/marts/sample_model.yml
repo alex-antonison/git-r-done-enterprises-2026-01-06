@@ -1,0 +1,24 @@
+version: 2
+models:
+  - name: sample_model
+    columns:
+      - name: release_year
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: mpaa_rating
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: major_genres
+        description: ''
+        config:
+          meta: {}
+          tags: []
+      - name: total_worldwide_gross
+        description: ''
+        config:
+          meta: {}
+          tags: []
